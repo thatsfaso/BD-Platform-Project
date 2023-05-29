@@ -26,7 +26,7 @@ INSERT INTO Struttura (Nome_stru, Ind_stru, Città, Prezzo, A_iscrizione, data_i
 			Ospiti, Descr_servizi, TipoStruttura) values('Malpensa House','Via Claudio Sisto, 233', 'Milano', 180, '2021-07-22', '2022-07-22', 2, '062893872', 80, null, null, 'Appartamento vicino al terminal 1 di Malpensa MXP','Appartamento');
 
 INSERT INTO Cliente (CF, Prenotazioni_effettuate, Mail, Nome_cli, Cognome, Ind_cli, Tel_cli) values ('GRNRZO97T12M361X', 3,'grinzosi.oracio@libero.it','Orazio','Grinzosi','Corso Vittorio Emanuele II, 11, Brescia', 393398701212);
-INSERT INTO Cliente (CF, Prenotazioni_effettuate, Mail, Nome_cli, Cognome, Ind_cli, Tel_cli) values ('GSTRMN61R46L245P', 1,'augustoerminia@icloud.com','Erminia','Augusto','Via Vecchia Lavorate 47, Sarno', 393386446516);
+INSERT INTO Cliente (CF, Prenotazioni_effettuate, Mail, Nome_cli, Cognome, Ind_cli, Tel_cli) values ('GSTRMN61R46L245P', 1,'augustoerminia@icloud.com','Erminia','Augusto','Via Vecchia Lavorate 47, Sarno', 393386446223);
 INSERT INTO Cliente (CF, Prenotazioni_effettuate, Mail, Nome_cli, Cognome, Ind_cli, Tel_cli) values ('LCCMDA69A14D704Q', 7,'amelucchesi@gmail.com','Amedeo','Lucchesi','Via Tullio Mansi 44, Forlì', 39338625531);
 INSERT INTO Cliente (CF, Prenotazioni_effettuate, Mail, Nome_cli, Cognome, Ind_cli, Tel_cli) values ('GROLVC80L12H501L', 4,'lodovico.gori@outlook.it','Lodovico','Gori','Via Provinciale Amendola 11C, Cava De Tirreni', 39335231840);
 INSERT INTO Cliente (CF, Prenotazioni_effettuate, Mail, Nome_cli, Cognome, Ind_cli, Tel_cli) values ('MNTTNO00A41F205X', 9,'tonia.montanelli@gmail.com','Tonia','Montanelli','Via Carrara Lo Porto 11, Striano', 393332544652);
